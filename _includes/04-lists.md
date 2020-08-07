@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* create a list
+* commit changes
+* ???
+* Profit
+  * gains
